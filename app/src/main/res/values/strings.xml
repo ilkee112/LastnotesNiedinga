@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ilzes Notes</string>
+    <string name="desc">Type ..</string>
+    <string name="tag">tag</string>
+    <string name="save_note">Save</string>
+    <string name="title">Title</string>
+    <string name="color">Color</string>
+</resources>
